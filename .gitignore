@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+/data
+/myproject/lib
+db.sqlite3
+myproject/pyvenv.cfg
